@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631236359717",
+    "firebase_url": "https://smartbox-3d69f.firebaseio.com",
+    "project_id": "smartbox-3d69f",
+    "storage_bucket": "smartbox-3d69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631236359717:android:043be665b2cc4a33",
+        "android_client_info": {
+          "package_name": "com.bharatmk257.smartbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631236359717-agvdlju5gmu70d6tnmn5bvmv8bf6piot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharatmk257.smartbox",
+            "certificate_hash": "bc70bdf70bba4504e15b81b3c097fc1e4ef9816c"
+          }
+        },
+        {
+          "client_id": "631236359717-jrv585spuano84k4chajmd7nf1nctppb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ezUJzHhn8eeoMekqbtY8QUBOJQavxlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631236359717-jrv585spuano84k4chajmd7nf1nctppb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
